@@ -19,7 +19,7 @@ A full-stack Flutter application that collects customer feedback, classifies it 
 
 ## Download APK
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Yashsukhadiya1/feedback_form/raw/main/apk/app-release.apk">
     <img src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android"/>
   </a>
