@@ -3,6 +3,29 @@
 A full-stack Flutter application that collects customer feedback, classifies it using a Machine Learning model, stores it in Firebase Firestore, and sends a thank-you email to the user.
 
 ---
+## Screenshots
+
+<p align="center">
+  <img src="assets/ss/Screenshot1.jpeg" width="220"/>
+  <img src="assets/ss/Screenshot2.jpeg" width="220"/>
+</p>
+
+<p align="center">
+  <img src="assets/ss/Screenshot3.jpeg" width="220"/>
+  <img src="assets/ss/Screenshot4.jpeg" width="220"/>
+</p>
+
+---
+
+## Download APK
+
+<p align="center">
+  <a href="apk/app-release.apk">
+    <img src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android"/>
+  </a>
+</p>
+
+---
 
 ## Project Overview
 
